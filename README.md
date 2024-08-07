@@ -25,3 +25,35 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+<!--
+
+
+### Dependencies:
+
+
+### resources + tutorials
+
+- udemy
+    - [React JS + Angular + Rails 5 Bootcamp](https://www.udemy.com/course/angular-on-rails-course/) by [Jordan Hudgens](https://www.udemy.com/user/jordanhudgens/)
+    - [Angular - The Complete Guide (2024 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
+
+
+Day 1
+
+angular app created using CLI tools
+
+```zsh
+ng new my-angular-app
+```
+
+create homepage component using CLI tools
+
+
+```zsh
+ng g c homepage
+```
+
+
+
+ -->

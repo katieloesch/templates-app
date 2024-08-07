@@ -10,5 +10,5 @@ import { HomepageComponent } from './homepage/homepage.component';
   styleUrl: './app.component.scss',
 })
 export class AppComponent {
-  title = 'client';
+  title = 'Templates App';
 }
